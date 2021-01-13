@@ -5,7 +5,6 @@ int main()
   int a = 545;
   printf("int a value: %d and size: %lu bytes\n", a, sizeof(a));
 
-
   char c = 'd';
   printf("char c value: %c and size: %lu bytes\n", c, sizeof(c));
 
