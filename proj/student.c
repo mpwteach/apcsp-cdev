@@ -21,6 +21,7 @@ Student* students[100] = {0};
 
 void createStudent(char* fname, char* lname, int age, int id)
 {
+  printf("\n");
   // createStudent dynamically creates a Student on the heap and adds that
   // student to the student array
   //  - the firstName and lastName strings should be dynamically created
