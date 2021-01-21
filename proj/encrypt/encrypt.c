@@ -13,6 +13,9 @@ int CHARS_LEN = 62;
 
 char shiftChar(char c, int shift, int direction)
 {
+
+
+  
   // implement the character shift here:
   //  given a char c shift it either forwards (direction == 1) or backwards (direction == 0)
   //  use the CHARS array above
